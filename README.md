@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dancharike
-- 👀 I’m interested in programing
+- 👀 I’m interested in making video games
 - 🌱 I’m currently learning sofrware engeneering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
